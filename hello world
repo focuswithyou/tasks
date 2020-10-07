@@ -1,0 +1,7 @@
+create my first java code practice......on github!
+class hello world {
+public static void main (String args[])
+ {
+   System.out.println("print the statement: hello world");
+ }
+}
